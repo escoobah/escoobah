@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @escoobah
+- 👀 I’m interested in pixel art, character design, English and languages 
+- 🌱 I’m currently learning how to make descent sprites
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my Final project from senior high school is  literal game using Unity!
